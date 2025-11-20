@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Basic HTML Page</title>
+</head>
+<body>
+
+    <h1>My First HTML Page</h1>
+    <p>This is a simple paragraph in HTML.</p>
+
+    <h2>My List</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ul>
+
+    <h2>My Image</h2>
+    <img src="https://via.placeholder.com/200" alt="Sample Image">
+
+    <h2>My Link</h2>
+    <a href="https://google.com" target="_blank">Go to Google</a>
+
+</body>
+</html>
